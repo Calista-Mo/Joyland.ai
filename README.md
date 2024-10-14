@@ -18,3 +18,4 @@ In Joyland, you can:
 ### **Get Mobile App**
 The JOYLAND APP is officially LIVE!
 Head on over to the [**App Store**](https://apps.apple.com/us/app/joyland-ai/id6476473048) and download the Joyland App now!
+
